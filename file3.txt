@@ -1,5 +1,6 @@
-Tips
-While we could use http for this, use the net module in order to practice more with TCP directly
-Start by supporting the transfer of simple text files only, using an encoding of 'utf8' as we have before
-With more time, you can then try to support non-text-based files such as images, PDFs, mp3s, etc
-Complete
+FILE 3
+FILE 3
+FILE 3
+FILE 3
+FILE 3
+FILE 3
