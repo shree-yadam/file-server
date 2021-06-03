@@ -1,5 +1,6 @@
-Build a file server and client where:
-
-Clients can connect to the server via TCP and send a request for a file (by filename)
-The server looks for requested files locally and sends back the data
-We're leaving the exact communication protocol/details vague intentionally. It's up to you how you want to implement this, and what other functionality you'd like to support.
+FILE 2
+FILE 2
+FILE 2
+FILE 2
+FILE 2
+FILE 2
